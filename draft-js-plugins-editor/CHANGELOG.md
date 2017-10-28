@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## To Be Released
 
 ### Added
-
+- add typescript definition file
 - blockStyleFn returns '' instead of false
 - `handleKeyCommand` now receives the arguments `(command, editorState, pluginFunctions)`
 - `handlePastedText` now receives the arguments `(text, html, editorState, pluginFunctions)`
